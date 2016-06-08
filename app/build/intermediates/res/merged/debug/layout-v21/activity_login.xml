@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout    xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical"
+android:layout_width="match_parent"
+    android:layout_below="@android:id/statusBarBackground"
+android:layout_height="match_parent">
+
+<android.support.v7.widget.Toolbar
+    android:id="@+id/toolbar_login"
+    android:background="@color/colorPrimary"
+    android:layout_marginBottom="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"></android.support.v7.widget.Toolbar>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.junior.captalivrov1.LoginActivity">
+
+
+        <TextView
+            android:id="@+id/txt_app_nome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="CaptaLivros"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_saudacao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_app_nome"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="12sp"
+            android:text="Pesquisa Fácil, eficiente e consciente."
+            android:textSize="19sp" />
+
+        <!--
+            <ImageView
+                android:id="@+id/livro_logo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_saudacao"
+                android:src="@drawable/livro_logo" />-->
+
+        <EditText
+            android:id="@+id/usuario"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_saudacao"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:hint="Entre com o Usuário" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/usuario"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:hint="Entre com sua Senha" />
+
+        <Button
+            android:id="@+id/btn_entrar"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorPrimary"
+            android:text="Entrar" />
+
+        <TextView
+            android:id="@+id/txt_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btn_entrar"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="20dp"
+            android:layout_centerHorizontal="true"
+            android:clickable="true"
+            android:text="Clique aqui e faça um pré-cadastro."
+            android:textSize="19sp" />
+
+
+    </RelativeLayout>
+</ScrollView>
+</LinearLayout>

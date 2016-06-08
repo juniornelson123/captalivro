@@ -1,0 +1,970 @@
+[
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/user.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_white_2x.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_camera_enhance_white_2x.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_person_black_48dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_person_black_48dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_assignment_ind_black_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_assignment_ind_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_build_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_build_black_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_arrow_back_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_circle_mask.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.2.6\\res\\drawable\\material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_party_mode_black_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_party_mode_black_48dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_right.9.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_assignment_ind_black_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_assignment_ind_black_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/material_drawer_circle_mask.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_delete_forever_black_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_bottom.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.2.6\\res\\drawable\\material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_devices_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_devices_white_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_top.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_arrow_back_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_camera_alt_white_48dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_camera_alt_white_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera_enhance_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_camera_enhance_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_white_2x.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_camera_enhance_white_2x.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_http_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_http_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_android_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_android_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_power_settings_new_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_power_settings_new_white_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_search.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_search.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\livro_logo.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\livro_logo.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/livro_logo.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/livro_logo.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_18dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_add_a_photo_white_18dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_assignment_ind_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_assignment_ind_black_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_http_black_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_http_black_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_right.9.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_backup_black_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_backup_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_devices_white_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_devices_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_right.9.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_camera_alt_black_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_camera_alt_black_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera_alt_black_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_camera_alt_black_48dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_party_mode_black_48dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_party_mode_black_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_camera_alt_white_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_camera_alt_white_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_top.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/camera.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/camera.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_person_white_18dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_person_white_18dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_left.9.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_delete_forever_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_add_a_photo_white_48dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_black_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_camera_enhance_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_arrow_back_white_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_party_mode_black_36dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_party_mode_black_36dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_white_48dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_camera_enhance_white_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera_enhance_white_2x.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_camera_enhance_white_2x.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_search.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_search.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_search.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_search.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera_alt_white_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_camera_alt_white_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/material_drawer_circle_mask.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_delete_sweep_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_delete_sweep_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/livro_logo.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/livro_logo.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_search_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_backup_black_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_backup_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_left.9.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_search_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_arrow_left.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_arrow_left.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_white_3x.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_camera_enhance_white_3x.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_build_black_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_build_black_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_18dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_add_a_photo_white_18dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_party_mode_black_48dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_party_mode_black_48dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_top.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.2.6\\res\\drawable\\material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_person_black_48dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_person_black_48dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_storage_white_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_storage_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_left.9.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_build_black_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_build_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_party_mode_black_36dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_party_mode_black_36dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_camera_enhance_white_3x.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_camera_enhance_white_3x.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_add_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_person_white_18dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_person_white_18dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_devices_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_devices_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_forever_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_48dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_add_a_photo_white_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_left.9.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.2.6\\res\\drawable\\material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_power_settings_new_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_power_settings_new_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_layers_white_18dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_layers_white_18dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_devices_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_devices_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_http_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_http_black_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_48dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_add_a_photo_white_48dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_bottom.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_camera_alt_black_48dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_camera_alt_black_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_storage_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_storage_white_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_white_3x.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_camera_enhance_white_3x.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_layers_white_18dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_layers_white_18dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_layers_white_18dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_layers_white_18dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_camera_alt_white_48dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_camera_alt_white_48dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_add_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_person_white_18dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_person_white_18dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_white_2x.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_camera_enhance_white_2x.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_party_mode_black_36dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_party_mode_black_36dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_create_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_backup_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_backup_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_bottom.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/material_drawer_badge.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_badge.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/img.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/img.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/material_drawer_badge.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_badge.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/material_drawer_badge.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_badge.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_build_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_build_black_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_camera_alt_black_48dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_camera_alt_black_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_http_black_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_http_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_delete_forever_black_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_delete_forever_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_badge.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.2.6\\res\\drawable\\material_drawer_badge.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_person_black_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_person_black_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_white_3x.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_camera_enhance_white_3x.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/material_drawer_circle_mask.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_power_settings_new_white_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_power_settings_new_white_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\material_drawer_shadow_right.9.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.2.6\\res\\drawable\\material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_assignment_ind_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_assignment_ind_black_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_top.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_storage_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_storage_white_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_camera_enhance_black_24dp.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_arrow_left.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_arrow_left.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_party_mode_black_48dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_party_mode_black_48dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_party_mode_black_36dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_party_mode_black_36dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/livro_logo.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/livro_logo.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_add_a_photo_white_18dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_add_a_photo_white_18dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_search_white_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_left.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_arrow_left.png"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_camera_enhance_black_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_camera_enhance_black_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backup_black_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/C:\\Users\\junior\\AndroidStudioProjects\\CaptaLivrosV3\\app\\src\\main\\res\\drawable\\ic_backup_black_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/ic_add_white_24dp.png",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/src/main/res/drawable/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/material_drawer_shadow_bottom.xml",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.2.6/res/drawable/material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/build/intermediates/res/merged/debug/drawable/ic_power_settings_new_white_24dp.png",
+        "source": "/home/junior/AndroidStudioProjects/CaptaLivrosV3/app/src/main/res/drawable/ic_power_settings_new_white_24dp.png"
+    },
+    {
+        "merged": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/joao/AndroidStudioProjects/CaptaLivrosV1.0.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/build/intermediates/res/merged/debug/drawable/ic_storage_white_24dp.png",
+        "source": "/home/junio/AndroidStudioProjects/CaptaLivrosInteraje-master-b903696cda09a83cee9c45c5c1705cf5b10ed15f/app/src/main/res/drawable/ic_storage_white_24dp.png"
+    }
+]

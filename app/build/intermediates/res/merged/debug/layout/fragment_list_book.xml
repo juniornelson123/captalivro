@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.junior.captalivrosv2.fragments.ListBookFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+   <android.support.v7.widget.RecyclerView
+       android:id="@+id/recycler_view_book"
+       android:scrollbars="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+
+   <TextView
+        android:id="@+id/vazio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</FrameLayout>
